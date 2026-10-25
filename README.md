@@ -16,6 +16,7 @@ Here are some examples of Vircon32 games (size here is 50%):
 - Alternative BIOSes are also supported. For this, place your BIOS rom file in RetroArch's system directory under the name Vircon32Bios.v32.
 - There is a core option to enable automatic frameskip. Use this to reduce slowdown if needed. However it can cause some stutter or small inaccuracies so it is recommended to leave it off (this is the default).
 - The core supports savestates and rewinding.
+- The core is ready for RetroAchievements support.
 - It is not clear if netplay is possible. This is untested.
 
 -----------------
@@ -40,8 +41,10 @@ The Vircon32 core is currently supported in at least these libretro systems:
 - [ES-DE](https://es-de.org/)
 - [EmuVR](https://www.emuvr.net)
 - [JELOS](https://github.com/JustEnoughLinuxOS)
+- [Hyperspin](https://hyperspin-fe.com/)
 - [Lakka](https://www.lakka.tv)
 - [MuOS](https://muos.dev/)
+- [RecalBox](https://www.recalbox.com/)
 - [RetroArch](https://www.retroarch.com)
 - [RetroBat](https://www.retrobat.org)
 - [RetroDECK](https://retrodeck.net/)
